@@ -182,21 +182,21 @@ const pages = {
         <div class="team-contact-grid">
             <!-- Person 1 -->
             <div class="contact-card">
-                <div class="contact-avatar"><img src="dzakki.png" alt=""></div>
+                <div class="contact-avatar"><img src="dzakki.webpp" alt=""></div>
                 <div class="contact-name">Muhammad Dzakki Nur F.</div>
                 <div class="contact-id">24183207022</div>
             </div>
 
             <!-- Person 2 -->
             <div class="contact-card">
-                <div class="contact-avatar"><img src="anisa.png" alt=""></div>
+                <div class="contact-avatar"><img src="anisa.webp" alt=""></div>
                 <div class="contact-name">Annisa 'Ulaanurul Aini</div>
                 <div class="contact-id">24183207013</div>
             </div>
 
             <!-- Person 3 -->
             <div class="contact-card">
-                <div class="contact-avatar"><img src="farrel.png" alt=""></div>
+                <div class="contact-avatar"><img src="farrel.webp" alt=""></div>
                 <div class="contact-name">Jauza Daffa Farrela</div>
                 <div class="contact-id">24183207004</div>
             </div>
@@ -427,3 +427,4 @@ function updateKeranjangUI() {
     container.innerHTML = html;
     totalEl.textContent = total.toLocaleString('id-ID');
 }
+
